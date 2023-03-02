@@ -1,0 +1,11 @@
+,Machine Readable Disclosure File,Unnamed: 1
+0,"The information in this file is provided as required by The Centers for Medicare & Medicaid Services’ Price Transparency Final Rule.  This file contains our gross standard charges, cash-discounted rate, and negotiated rates per payor. We charge the same for all patients, but a patient’s responsibility may vary depending on rates negotiated with health plans and your individual coverage. If you are a potential patient please refer to https://mychartweb.ohsu.edu/mychart/guestestimates in MyChart which can provide a clearer estimate and will be customized to your insurance coverage. Patients without insurance or do not have enough insurance may qualify for discounts.",
+1,**The information contained in this file is intended for informational purposes only and does not represent any obligation or agreement.,
+2,Standard Charges Tab,Description
+3,Negotiated Inpatient/Outpatient Charge,These columns represent the negotiated charges for inpatient/outpatient items and services
+4,Minimum Negotiated Charge,"This column represents the lowest reimbursement rate that a hospital has negotiated with all third-party payers, and/or cash-discount for an item or service."
+5,Maximum Negotiated Charge,This column represents the highest reimbursement rate that a hospital has negotiated with all third-party payers for an item or service.
+6,Blank spaces in Charge columns,A blank cell represents an item or service that has not been performed for that payer or does not have a negotiated rate available.
+7,Custom Code,"A custom code may appear in the code column instead of a CPT or HCPCS code. These are internal codes used when a CPT or HCPCS code does not exist for that item or service. These scenarios can include: supplies, pharmacy items, Room/Board charges  and time-based charges."
+8,Cash-Discounted Standard Charges Tab,Description
+9,Cash Discount Inpatient/Outpatient,This section presents information regarding discounted cash pricing for those patients who pay without insurance coverage. 
